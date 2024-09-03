@@ -29,4 +29,13 @@ git push -u origin master
 
 git push origin <branchname>
 
+git pull
+- Pull down changes
+
+git log
+- See changes listed
+
+This document is based off going through the tutorial
+https://product.hubspot.com/blog/git-and-github-tutorial-for-beginners
+
 
