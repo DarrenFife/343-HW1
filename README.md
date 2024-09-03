@@ -1,6 +1,8 @@
+
 # 343-HW1
 
-*Common commands used in Git*
+
+### Common commands used in Git
 
 git init
 - Initializes local git repo
